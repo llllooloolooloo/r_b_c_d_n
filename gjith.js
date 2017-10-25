@@ -1,1 +1,1 @@
-(new Image).src = "//whos.amung.us/swidget/nutr13nt3";
+(new Image).src = "//whos.amung.us/swidget/mandar1n0s";
